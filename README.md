@@ -1,2 +1,2 @@
 # PPOO
-Atividades da disciplina de Paradigmas de Programação Orientada a Objetos
+Atividades da disciplina de Práticas de Programação Orientada a Objetos
